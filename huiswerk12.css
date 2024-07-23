@@ -1,0 +1,89 @@
+header{
+background-color: chocolate;
+width: auto;
+height: 100px;
+
+}
+table{
+
+}
+tr{
+
+}
+td{
+    width: 250px;
+    height: 250px;
+
+}
+.cell1 { background-color: darkslategray;}
+.cell2 { background-color: gray;} 
+.cell3 { background-color: silver; } 
+.cell4 { background-color: gainsboro; } 
+.cell5{ background-color: powderblue;} 
+.cell6 { background-color: cornflowerblue;} 
+.cell7 { background-color: mediumblue; } 
+.cell8 { background-color: navy; } 
+.cell9 { background-color: teal;} 
+.cell10 { background-color: lightseagreen;} 
+.cell11 { background-color: aquamarine; } 
+.cell12 { background-color: turquoise; } 
+.cell13 { background-color: palegreen;} 
+.cell14 { background-color: limegreen;} 
+.cell15 { background-color: darkgreen; } 
+.cell16 { background-color: olive; }
+.cell1 {
+    color: red;
+} 
+.cell5 {
+    color: blue;
+}
+.cell9{
+    color: black;
+}
+.cell13{
+    color: brown;
+}
+.cell3{
+    color: navy;
+}
+.cell7{
+    color: yellow;
+}
+.cell11{
+    color: purple;
+}
+.cell15{
+    color: antiquewhite;
+}
+
+    img{
+        
+        width: 250px;
+        height: 250px;    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+footer{
+    background-color: rgb(52, 140, 100);
+    width: auto;
+    height: 100px;
+}
+
+    
+
+
